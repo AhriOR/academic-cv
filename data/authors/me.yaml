@@ -56,9 +56,9 @@ education:
 
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: AI Researcher
+    org: Guangdong University of Technology
+    start: 2023-09-01
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
