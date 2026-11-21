@@ -2,68 +2,58 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Boyang Chen(陈博阳)
+  given: Boyang
+  family: Chen
+  alternate: '陈博阳'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - B.E. Data Science
+
 status:
   icon: "☕️"
 role: Senior AI Research Scientist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am currently a undergraduate student at Guangdong University of Technology, majoring in B.E. Data Science. My supervisor is Prof. Jinghui Qin. 
+  My research interests include natural language processing, multimodal Learning, and AIGC and its Detection.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Guangdong University of Technology
+    url: https://www.gdut.edu.cn/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+  - icon: email
+    url: chenboyang2@mails.gdut.edu.cn
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/AhriOR
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://https://scholar.google.com/citations?user=8DmGci4AAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://https://orcid.org/my-orcid?orcid=0009-0009-1461-8198
+  - icon: academicons/openreview
+    url: https://openreview.net/profile?id=%7EBoyang_Chen5
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Natural Language Processing
+  - Multimodal Learning
+  - AIGC and its Detection
+
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: B.E. Data Science
+    institution: Guangdong University of Technology
+    start: 2023-09-01
+    end: 2027-06-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      My research includes a sole first-author paper under review in Information Processing & Management and a sole first-author paper under review at WWW 2027. 
+      I am also a co-author on papers under review at CVPR 2027 and ICLR 2027, and I am preparing two sole first-author papers for submission to ACL 2027.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+
 
 experience:
   - role: Senior AI Research Scientist
@@ -102,15 +92,13 @@ skills:
 
 languages:
   - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
+    level: IELTS 6.5
     label: Fluent
 
+
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: 3rd Place in the 2026 CVPR SVC
+    awarder: CVPR
+    date: "2026-03"
+    summary: Awarded for contributions in Subtle Visual Computing.
     icon: hero/trophy
