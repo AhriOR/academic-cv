@@ -6,7 +6,7 @@ authors:
   - 'Jinghui Qin'
   - 'Kebing Jin'
 
-date: '2026-01-01'
+date: '2026-10-18'
 
 publication_types:
   - conference
@@ -18,5 +18,8 @@ publication:
 summary: 'FIRM is a multimodal fake news detection framework that reconstructs missing modalities as fine-grained latent sequences and progressively fuses observed and reconstructed evidence.'
 featured: true
 
+links:
+  - type: pdf
+    url: paper.pdf
 
 ---

@@ -13,7 +13,7 @@ postnominals:
 
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Student AI Researcher
 bio: |
   I am currently a undergraduate student at Guangdong University of Technology, majoring in B.E. Data Science. My supervisor is Prof. Jinghui Qin. 
   My research interests include Natural Language Processing, Multimodal Learning, and AIGC and its Detection.
@@ -38,7 +38,8 @@ links:
 interests:
   - Natural Language Processing
   - Multimodal Learning
-  - AIGC and its Detection
+  - Diffusion Models
+  - AIGC Detection
 
 
 education:

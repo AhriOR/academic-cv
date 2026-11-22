@@ -13,7 +13,7 @@ publication_types:
 
 publication:
   name: 'prepared for IP&M'
-  short_name: 'IP&M'
+  short_name: 'In preparation for IP&M'
 
 summary: 'EviRouter is a lightweight framework for multimodal fake news detection that adaptively combines shared and modality-specific evidence, including in cases where images and text are semantically consistent.'
 featured: true
