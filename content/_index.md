@@ -6,11 +6,15 @@ date: 2026-11-22
 type: landing
 
 sections:
-  - block: markdown
+  - block: resume-biography-3
     content:
-      title: 'Research Interests'
-      subtitle: ''
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: me
       text: |-
+        I am currently an undergraduate student at Guangdong University of Technology, majoring in Data Science. My supervisor is Prof. Jinghui Qin.
+
+        My research interests include AI for Society, Multimodal Learning, AI-Generated Content, and AIGC Detection.
+      research: |-
         | AI for Society | Multimodal Learning |
         | :--- | :--- |
         | AI-Generated Content | AIGC Detection |
@@ -24,18 +28,6 @@ sections:
         **AIGC Detection.** I investigate the generative mechanisms of diffusion models to develop generalizable detectors for AI-generated content.
 
         Please feel free to contact me regarding research collaborations.
-    design:
-      columns: '1'
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: |-
-        I am currently an undergraduate student at Guangdong University of Technology, majoring in Data Science. My supervisor is Prof. Jinghui Qin.
-
-        My research interests include AI for Society, Multimodal Learning, AI-Generated Content, and AIGC Detection.
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
