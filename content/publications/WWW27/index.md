@@ -6,7 +6,7 @@ authors:
   - 'Jinghui Qin'
   - 'Kebing Jin'
 
-date: '2026'
+date: '2026-01-01'
 
 publication_types:
   - conference
