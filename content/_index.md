@@ -13,7 +13,7 @@ sections:
       text: |-
         I am currently an undergraduate student at Guangdong University of Technology, majoring in Data Science. My supervisor is Prof. Jinghui Qin.
 
-        My research interests include Natural Language Processing, Multimodal Learning, and AIGC and its Detection.
+        My research interests include AI for Society, Multimodal Learning, AI-Generated Content, and AIGC Detection.
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -38,16 +38,22 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Interests'
       subtitle: ''
       text: |-
-        My research began with multimodal fake news detection, which sparked
-        my interest in multimodal understanding and AI-generated content (AIGC).
+        | AI for Society | Multimodal Learning |
+        | :--- | :--- |
+        | AI-Generated Content | AIGC Detection |
 
-        My current work focuses on improving multimodal question answering
-        and detecting AI-generated content through an understanding of the
-        underlying principles of generative models.
-        Please feel free to contact me regarding research collaborations. 😃
+        **AI for Society.** I explore socially meaningful applications of AI, including harmful content moderation and the ability of large language models to recognize implicit harm.
+
+        **Multimodal Learning.** My current interests include long-video understanding and visual question answering (VQA).
+
+        **AI-Generated Content.** I study image generation models and diffusion language models.
+
+        **AIGC Detection.** I investigate the generative mechanisms of diffusion models to develop generalizable detectors for AI-generated content.
+
+        Please feel free to contact me regarding research collaborations.
     design:
       columns: '1'
   - block: collection

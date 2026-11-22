@@ -16,7 +16,7 @@ status:
 role: Student AI Researcher
 bio: |
   I am currently a undergraduate student at Guangdong University of Technology, majoring in B.E. Data Science. My supervisor is Prof. Jinghui Qin. 
-  My research interests include Natural Language Processing, Multimodal Learning, and AIGC and its Detection.
+  My research interests include AI for Society, Multimodal Learning, AI-Generated Content, and AIGC Detection.
 
 affiliations:
   - name: Guangdong University of Technology
@@ -36,9 +36,9 @@ links:
     url: https://openreview.net/profile?id=%7EBoyang_Chen5
 
 interests:
-  - Natural Language Processing
+  - AI for Society
   - Multimodal Learning
-  - Diffusion Models
+  - AI-Generated Content
   - AIGC Detection
 
 
