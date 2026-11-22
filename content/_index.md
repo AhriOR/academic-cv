@@ -6,6 +6,28 @@ date: 2026-11-22
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: 'Research Interests'
+      subtitle: ''
+      text: |-
+        | AI for Society | Multimodal Learning |
+        | :--- | :--- |
+        | AI-Generated Content | AIGC Detection |
+
+        **AI for Society.** I explore socially meaningful applications of AI, including harmful content moderation and the ability of large language models to recognize implicit harm.
+
+        **Multimodal Learning.** My current interests include long-video understanding and visual question answering (VQA).
+
+        **AI-Generated Content.** I study image generation models and diffusion language models.
+
+        **AIGC Detection.** I investigate the generative mechanisms of diffusion models to develop generalizable detectors for AI-generated content.
+
+        Please feel free to contact me regarding research collaborations.
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -36,26 +58,6 @@ sections:
       avatar:
         size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: 'Research Interests'
-      subtitle: ''
-      text: |-
-        | AI for Society | Multimodal Learning |
-        | :--- | :--- |
-        | AI-Generated Content | AIGC Detection |
-
-        **AI for Society.** I explore socially meaningful applications of AI, including harmful content moderation and the ability of large language models to recognize implicit harm.
-
-        **Multimodal Learning.** My current interests include long-video understanding and visual question answering (VQA).
-
-        **AI-Generated Content.** I study image generation models and diffusion language models.
-
-        **AIGC Detection.** I investigate the generative mechanisms of diffusion models to develop generalizable detectors for AI-generated content.
-
-        Please feel free to contact me regarding research collaborations.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
