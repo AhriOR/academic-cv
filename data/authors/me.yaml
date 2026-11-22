@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Boyang Chen(陈博阳)
+  display: Boyang Chen
   given: Boyang
   family: Chen
   alternate: '陈博阳'  # Example: 王伟
@@ -16,14 +16,14 @@ status:
 role: Senior AI Research Scientist
 bio: |
   I am currently a undergraduate student at Guangdong University of Technology, majoring in B.E. Data Science. My supervisor is Prof. Jinghui Qin. 
-  My research interests include natural language processing, multimodal Learning, and AIGC and its Detection.
+  My research interests include Natural Language Processing, Multimodal Learning, and AIGC and its Detection.
 
 affiliations:
   - name: Guangdong University of Technology
     url: https://www.gdut.edu.cn/
 
 links:
-  - icon: email
+  - icon: E
     url: chenboyang2@mails.gdut.edu.cn
     label: E-mail Me
   - icon: brands/github

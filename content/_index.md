@@ -1,8 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-summary: ''
-date: 2022-10-24
+summary: 'Personal website of an AI researcher'
+date: 2026-11-22
 type: landing
 
 sections:
@@ -10,15 +10,15 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: 'Welcome to my academic homepage.'
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About Me'
+        education: 'Education'
+        interests: 'Interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -31,18 +31,20 @@ sections:
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research began with multimodal fake news detection, which sparked
+        my interest in multimodal understanding and AI-generated content (AIGC).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        My current work focuses on improving multimodal question answering
+        and detecting AI-generated content through an understanding of the
+        underlying principles of generative models.
+        Please feel free to contact me regarding research collaborations. 😃
     design:
       columns: '1'
   - block: collection
